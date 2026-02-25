@@ -8,8 +8,6 @@ https://interviewmetadata.onrender.com/
 
 ![CR 2](assets/CR-2.png)
 
-![CR 3](assets/CR-3.png)
-
 ![CR 17](assets/CR-17.png)
 
 ![CR 7](assets/CR-7.png)
